@@ -25,7 +25,6 @@ I used colours from CSS over using a web page
  cadetblue;
  rgba(72, 61, 139, 1);
  gold;
- red;
  #333333;
 
 Fonts
