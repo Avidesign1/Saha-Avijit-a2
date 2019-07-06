@@ -2,18 +2,20 @@ S19 -INFORMATION ARCHITECTRE 2 CRN81540-201803- July
 Deliverable:  Assignment 2, Part B
 Name:         Avijit Saha
 Student #:    101218472
-Email:        george@georgebrown.ca
+Email:        Avijit.saha@georgebrown.ca
 Submitted:    July 5, 2019
-Notes:        Hello world.
+Notes:        Hi!
+
  I have reviewed the appropriate checklist before submitting this work
 Works Cited
 https://www.w3schools.com 
-I have used this website and some help from my teacher.
+I have used this website and tried to take help from it.
 
 Feedback
-I gave feedback to (then list the projects/repositories, for example...):
+I gave feedback to 
+https://github.com/mehrnoush68/mehrnoush
+https://github.com/ChristopherRynkun22/rynkun-christopher-article/blob/master/README.md
 
-https://github.com/gb-idd-18/example-article-styling
 Styling Guide
 
 Colours
