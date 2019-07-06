@@ -22,9 +22,9 @@ Colours
 
 I used colours from CSS over using a web page 
 
- cadetblue;
+ cadetblue;rgb (95,158,160)
  rgba(72, 61, 139, 1);
- gold;
+ gold;rgb (255, 215, 0)
  #333333;
 
 Fonts
